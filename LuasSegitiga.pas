@@ -1,3 +1,5 @@
+//Bisma Gyndara Mages Jayalangit
+
 program Menghitung_Luas_Segitiga;
 {I.S.: pengguna memasukkan alas dan tinggi segitiga}
 {F.S.: menampilkan luas segitiga}
