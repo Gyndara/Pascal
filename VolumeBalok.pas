@@ -1,4 +1,6 @@
- program Menghitung_Volume_Balok;
+//Bisma Gyndara Mages Jayalangit
+
+program Menghitung_Volume_Balok;
 {I.S.: pengguna memasukan panjang, lebar dan tinggi balok}
 {F.S.: menampilkan volume balok}
 //Kamus:
