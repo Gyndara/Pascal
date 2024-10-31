@@ -7,9 +7,10 @@ Saya membuat repo ini bertujuan untuk membantu teman-teman selanjutnya yang mung
 Pada repo ini berisikan runtunan, percabangan dan untuk pengulangan menyusul.
 
 Pascal Arithmetic Operations:
-+ | - | * | /
+'+' | '-' | '*' | '/'
 mod is the modulus operation, which is used to find the remainder of a division. Example:
 > 5 mod 2 = 1
+
 div is the division operation, which is used to get the integer result of a division. Example:
 > 5 div 2 = 2
 
@@ -17,6 +18,7 @@ Operasi aritmatika pascal:
 '+' | '-' | '*' | '/'
 mod = adalah modulus dimana operasi ini berfungsi untuk mencari sisa dari hasil pembagian, example:
 > 5 mod 2 = 1
+
 div = adalah division dimana operasi ini berfungsi untuk mendapatkan nilai bualt dari hasil pembagian, example:
 > 5 div 2 = 2
 
