@@ -1,4 +1,5 @@
 //Bisma Gyndara Mages Jayalangit
+
 program BiayaParkir;
 {I.S.: Pengguna Memasukan Jenis Kendaran, Nopol(Nomor Polisi), Jam Masuk, Menit Masuk, Jam Keluar, Menit Keluar}
 {F.S.: Menampilkan lama parkir, dan biaya parkir yang perlu dibayar}
