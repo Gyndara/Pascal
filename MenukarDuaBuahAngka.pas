@@ -1,3 +1,5 @@
+//Bisma Gyndara Mages Jayalangit
+
 program Menukar_Dua_Buah_Angka;
 {I.S.: pengguna memasukan angka kesatu dan angka kedua}
 {F.S.: menampilkan hasil pertukaran angka kesatu dan angka kedua}
