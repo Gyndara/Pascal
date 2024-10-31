@@ -1,3 +1,5 @@
+//Bisma Gyndara Mages Jayalangit
+
 program MenentukanGenapGanjil;
 {I.S.: Pengguna memasukan sebuah bilangan}
 {I.F.: Menampilkan keterangan "Bilangan Ganjil" atau "Bilangan Genap"}
