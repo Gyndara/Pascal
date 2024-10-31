@@ -1,3 +1,5 @@
+//Bisma Gyndara Mages Jayalangit
+
 program KonversiWaktu;
 {I.S.: Pengguna memasukan jumlah detik}
 {F.S.: Menampilkan jumlah detik yang dikonversikan kedalam hari, jam, menit, detik}
