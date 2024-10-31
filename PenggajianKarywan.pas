@@ -1,3 +1,5 @@
+//Bisma Gyndara Mages Jayalangit
+
 program PenggajianKaryawan;
 {I.S.: pengguna memasukan bulan dan tahun penggajian, tiga data karyawan yang terdiri dari NIK, Nama Karywan dan gaji pokok}
 {F.S.: menampilkan data gaji perkaryawan dan total gaji yang harus dibayar perusahaan}
