@@ -3,7 +3,7 @@ program BiayaParkir;
 {F.S.: Menampilkan lama parkir, dan biaya parkir yang perlu dibayar}
 
 uses crt;
-//Kmaus:
+//Kamus:
 Var
    JenisKedaraan, NoPol: string;
    JamMasuk, MenitMasuk, JamKeluar, MenitKeluar, Jam, Menit, Biaya: integer;
