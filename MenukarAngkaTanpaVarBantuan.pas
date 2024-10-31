@@ -1,3 +1,5 @@
+//Bisma Gyndara Mages Jayalangit
+
 program Menukar_Dua_Buah_Angka;
 
 var
