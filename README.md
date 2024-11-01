@@ -1,5 +1,7 @@
 # Pascal
 
+reach this link to learn pascal: https://www.tutorialspoint.com/pascal/pascal_functions.htm
+
 I created this repository to help future friends who may enter the computer Science.
 This repository contains sequences, branching, and loops will follow.
 
