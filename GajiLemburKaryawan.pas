@@ -10,8 +10,8 @@ var
 begin
   //memasukan lama bekerja
   write('LAMA JAM BEKERJA : '); readln(LamaBekerja);
-
   UpahPerjam := 150000;
+  
   //menghitung total gaji yang didapat selama 40 jam
   TotalGaji  := LamaBekerja * UpahPerjam;
   JamLembur  := 0;
