@@ -1,17 +1,18 @@
 program GajiKaryawan;
-{I.S.: Pengguna memasukan lama jam bekerja}
-{F.S.: Menapilkan total gaji yang didapat sesuai jam bekerja}
+{I.S.: Pengguna memasukan nama dan lama jam bekerja}
+{F.S.: Menapilkan total gaji selama satu minggu yang didapat sesuai jam bekerja}
 
 //Kamus:
 var
+  NamaKaryawan: string;
   LamaBekerja, UpahPerjam, TotalGaji, JamLembur, GajiLembur, GajiUtama: Integer;
 
 //Badan program
 begin
   //memasukan lama bekerja
+  write('MASUKAN NAMA     : '); readln(NamaKaryawan);
   write('LAMA JAM BEKERJA : '); readln(LamaBekerja);
   UpahPerjam := 150000;
-  
   //menghitung total gaji yang didapat selama 40 jam
   TotalGaji  := LamaBekerja * UpahPerjam;
   JamLembur  := 0;
@@ -30,13 +31,13 @@ begin
   GajiUtama := TotalGaji - GajiLembur;
 
   //menampilkan lama bekerja dan total gaji yang didapat
-  writeln('  <<<< TOTAL GAJI KARYAWAN >>>>');
-  writeln('LAMA BEKERJA : ', LamaBekerja, ' JAM');
-  writeln('LAMA LEMBUR  : ', JamLembur, '  JAM');
-  writeln('GAJI BERSIH  : Rp.', GajiUtama:0);
-  writeln('GAJI LEMBUR  : Rp.', GajiLembur:0);
-  writeln('TOTAL GAJI   : Rp.', TotalGaji:0);
+  writeln('  <<<< TOTAL GAJI KARYAWAN SELAMA SATU MINGGU >>>>');
+  writeln('NAMA KARAYAWAN : ', NamaKaryawan);
+  writeln('LAMA BEKERJA   : ', LamaBekerja, ' JAM');
+  writeln('LAMA LEMBUR    : ', JamLembur, '  JAM');
+  writeln('GAJI BERSIH    : Rp.', GajiUtama:0);
+  writeln('GAJI LEMBUR    : Rp.', GajiLembur:0);
+  writeln('TOTAL GAJI     : Rp.', TotalGaji:0);
 
   ReadLn;
 end.
-
