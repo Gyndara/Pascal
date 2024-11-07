@@ -23,7 +23,7 @@ begin
      Diskon := 0;
      StatusDiskon := 'T';
 
-     if(JumlahProduk >= 12)
+     if(JumlahProduk >= 20)
         then
             begin
                  write('Ada Diskon [Ya/Tidak] : '); readln(StatusDiskon);
